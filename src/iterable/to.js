@@ -11,20 +11,20 @@
  *   return this * 2;
  * })::to(Array) // returns [2, 4, 6]
  *
- * @example 
+ * @example
  * //Objects
  *
  * [{id: "a"}, {id: "b"}].map(function () {
  *   return [this.id, this];
  * })::to(Object); // returns { a: { id: "a" }, b: { id: "b"} }
  *
- * @example 
+ * @example
  * //Strings
  *
  * "foo".split("").reverse()::to(String) // "oof"
  *
  *
- * @example 
+ * @example
  * //Other Collections
  *
  * [2.5, 3.5]::to(Uint16Array) // returns Uint16Array [2, 3]
