@@ -3,7 +3,7 @@
  * Returns the sign of the number, indicating whether the number is positive, negative or zero.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 0::sign() // returns 0

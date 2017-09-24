@@ -8,7 +8,7 @@ import { map } from "./map";
  * @this {Iterable<T>}
  * @ntime Engine-specific
  * @dspace Engine-specific
- * @example 
+ * @example
  * //Basic Usage
  *
  * [{

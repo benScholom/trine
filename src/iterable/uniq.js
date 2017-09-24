@@ -6,7 +6,7 @@
  * @param comparator The function to assert equality of the items.
  * @ntime O(n)
  * @dspace O(1)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [{

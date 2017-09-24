@@ -8,7 +8,7 @@
  * @this {Iterable<iT>}
  * @ntime O(n)
  * @dspace O(k)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3]::convolve(function (tail) {

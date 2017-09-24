@@ -5,7 +5,7 @@
  * @this {Iterable<T>}
  * @ntime O(n)
  * @dspace O(2n)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [5,4,1,2,3]::reverse() // yields 3, 2, 1, 4, 5

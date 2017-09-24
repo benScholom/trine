@@ -7,7 +7,7 @@
  * @this {Iterable<Iterable<T>>}
  * @ntime O(nm)
  * @dspace O(m)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [ [1,2], [4,5], [6,7] ]::zip() // yields [1,4,6], [2,5,7]

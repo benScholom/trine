@@ -3,7 +3,7 @@
  * Returns a function that always returns the given value.
  *
  * @this {T} The value the function should return.
- * @example 
+ * @example
  * //Basic Usage
  *
  * let fn = 1::toFunction();

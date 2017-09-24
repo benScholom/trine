@@ -4,7 +4,7 @@
  *
  * @this {any}
  * @param value The value to compare the bound value to.
- * @example 
+ * @example
  * //Basic Usage
  *
  * "foo"::is("foo") // true

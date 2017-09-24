@@ -3,7 +3,7 @@
  * Returns the division of two numbers.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 8::div(4) // returns 2

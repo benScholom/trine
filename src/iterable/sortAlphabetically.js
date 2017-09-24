@@ -5,7 +5,7 @@
  * @this {Iterable<T>}
  * @ntime Engine-specific
  * @dspace Engine-specific
- * @example 
+ * @example
  * //Basic Usage
  *
  * ["foo", "bar"]::sortAlphabetically() // yields "bar", "foo"

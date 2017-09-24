@@ -7,7 +7,7 @@
  *
  * @this {Iterable}
  * @param depth The depth that the generator will flatten to.
- * @example 
+ * @example
  * //Basic Usage
  *
  * [[[1],[2]]]::flattenDeep(2) // yields [1,2]

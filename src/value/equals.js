@@ -4,7 +4,7 @@
  *
  * @this {any} The left operand to compare.
  * @param right The right operand to compare to.
- * @example 
+ * @example
  * //Basic Usage
  *
  * "foo"::equals("bar") // false

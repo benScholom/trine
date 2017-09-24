@@ -5,7 +5,7 @@
  * @this {Object}
  * @ntime O(n)
  * @dspace O(n)
- * @example 
+ * @example
  * //Basic Usage
  *
  * {a:1,b:2,c:3}::keys() // yields "a", "b", "c"

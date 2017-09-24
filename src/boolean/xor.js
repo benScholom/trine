@@ -4,7 +4,7 @@
  *
  * @this {boolean} Left boolean operand.
  * @param right Right boolean operand.
- * @example 
+ * @example
  * //Basic Usage
  *
  * true::xor(true) // false

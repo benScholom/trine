@@ -25,16 +25,17 @@ function flatMap (transformer) {
  *
  * @this {T}
  * @param ...staticParams The prefilled parameters.
- * @example 
+ * @example
  * //Unary `parseInt`
  *
  * parseInt::partial(_)("10", 2) // 10
  *
- * @example Hexadecimal `parseInt`
+ * @example
+ * //Hexadecimal `parseInt`
  *
  * parseInt::partial(_, 16)("10") // 16
  *
- * @example 
+ * @example
  * //Fill Only the Second Argument
  *
  * function foo (a, b, c, d) {
@@ -43,7 +44,7 @@ function flatMap (transformer) {
  *
  * foo::partial(_, 2, ___)(1, 3, 4) // logs "1 2 3 4"
  *
- * @example 
+ * @example
  * //Fill Only the Second Last Argument
  *
  * function foo (a, b, c, d) {
@@ -52,7 +53,7 @@ function flatMap (transformer) {
  *
  * foo::partial(___, 3, _)(1, 2, 4) // logs "1 2 3 4"
  *
- * @example 
+ * @example
  * //Compose a Prototype Method
  *
  * const slice1 = Array.prototype.slice::partial(1, ___);

@@ -3,7 +3,7 @@
  * Yields forks of the original iterator, caching the items as needed.
  *
  * @this {Iterable<T>}
- * @example 
+ * @example
  * //Basic Usage
  *
  * const source = [1,2,3]::map(function () { return this * 2});

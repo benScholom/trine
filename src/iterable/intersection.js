@@ -7,7 +7,7 @@
  * greater and a negative number when the item on the right is greater.
  * @ntime O(n+m)
  * @dspace O(2)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [[1,2,3,4,5], [2,3,4,6]]::intersection(function (b) {

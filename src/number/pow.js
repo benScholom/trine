@@ -3,7 +3,7 @@
  * Returns the n-th power of the number.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 2::pow(0) // returns 1

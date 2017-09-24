@@ -7,7 +7,7 @@
  * greater and a negative number when the item on the right is greater.
  * @ntime O(n+m)
  * @dspace O(2)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [[2,3,4,7,8,9], [1,5,6,7]]::union(function (b) {

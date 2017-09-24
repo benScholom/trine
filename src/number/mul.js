@@ -3,7 +3,7 @@
  * Returns the multiplication of two numbers.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 8::mul(-2) // returns -16

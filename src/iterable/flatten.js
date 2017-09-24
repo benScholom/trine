@@ -5,7 +5,7 @@
  * Yields the elements in the iterables of the iterable.
  *
  * @this {Iterable<Iterable<T>>}
- * @example 
+ * @example
  * //Basic Usage
  *
  * [[1],[2]]::flatten() // yields [1,2]

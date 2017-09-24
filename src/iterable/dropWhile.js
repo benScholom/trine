@@ -6,7 +6,7 @@
  * @param condition A condition called on every item to see if it should be dropped.
  * @ntime O(n)
  * @dspace O(1)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3,4,1,2,3,4]::dropWhile(function () {

@@ -10,7 +10,7 @@ import { last } from "./last";
  * @this {Iterable<iT>}
  * @ntime O(n)
  * @dspace O(1)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [3,2,5,1,4]::reduce(function (b) {

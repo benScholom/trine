@@ -3,7 +3,7 @@
  * Returns the smaller of two numbers.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 8::min(-1) // returns -1

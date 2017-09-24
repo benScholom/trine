@@ -3,7 +3,7 @@
  * Returns the modulo of two numbers.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 8::mod(2) // returns 0

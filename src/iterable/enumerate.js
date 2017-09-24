@@ -6,7 +6,7 @@
  * @this {Iterable<iT>}
  * @ntime O(n)
  * @dspace O(1)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3]::enumerate() // yields [0,1], [1,2], [2,3]

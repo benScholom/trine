@@ -3,7 +3,7 @@
  * Returns the negation of the boolean.
  *
  * @this {boolean} The boolean to negate.
- * @example 
+ * @example
  * //Basic Usage
  *
  * true::not() // false

@@ -5,7 +5,8 @@
  * @this {Iterable<T>}
  * @ntime O(n)
  * @dspace O(1)
- * @example Basic Usage
+ * @example
+ * //Basic Usage
  *
  * [{id:2,x:1}, {id:3,x:2}, {id:4,x:4}, {id:3,x:5}]::find(function () {
  *   return this.id === 3;

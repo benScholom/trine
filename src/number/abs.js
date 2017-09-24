@@ -3,7 +3,7 @@
  * Returns the absolute value of the number.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * (-3)::abs() // returns 3

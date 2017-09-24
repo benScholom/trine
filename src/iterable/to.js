@@ -4,7 +4,7 @@
  *
  * @this {Iterable<iT>}
  * @param Type The constructor for the collection type.
- * @example 
+ * @example
  * //Arrays
  *
  * [1,2,3].map(function () {

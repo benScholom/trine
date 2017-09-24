@@ -3,7 +3,7 @@
  * Returns the sum of two numbers.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 5::add(4) // returns 9

@@ -8,7 +8,7 @@
  * @this {Iterable<T>}
  * @ntime O(n²)
  * @dspace O(n)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [3,2,5,1,4]::quickSort(function (b) {

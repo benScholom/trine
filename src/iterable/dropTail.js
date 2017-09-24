@@ -5,7 +5,7 @@
  * @this {Iterable<T>}
  * @ntime O(n)
  * @dspace O(n)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3]::dropTail(0) // yields 1, 2, 3

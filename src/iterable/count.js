@@ -5,7 +5,7 @@
  * @this {Iterable<any>}
  * @ntime O(n)
  * @dspace O(1)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3]::count() // yields 3

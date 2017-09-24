@@ -3,7 +3,7 @@
  * Returns the larger of two numbers.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 8::max(-1) // returns 8

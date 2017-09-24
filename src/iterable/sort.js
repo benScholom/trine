@@ -5,7 +5,7 @@
  * @this {Iterable<T>}
  * @ntime Engine-specific
  * @dspace Engine-specific
- * @example 
+ * @example
  * //Basic Usage
  *
  * [3,2,1]::sort(function (b) { return this - b; }) // yields 1, 2, 3

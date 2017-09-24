@@ -7,7 +7,7 @@ import { sort } from "./sort";
  * @this {Iterable<T>}
  * @ntime Algorithm dependent
  * @dspace Algorithm dependent
- * @example 
+ * @example
  * //Basic Usage
  *
  * [{

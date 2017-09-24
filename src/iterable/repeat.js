@@ -3,7 +3,7 @@
  * Indefinitely repeat the values of a given iterator.
  *
  * @this {Iterable<T>}
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3]::repeat(); // yields [1,2,3,1,2,3...]

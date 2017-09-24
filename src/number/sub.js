@@ -3,7 +3,7 @@
  * Returns the subtraction of two numbers.
  *
  * @this {number}
- * @example 
+ * @example
  * //Basic Usage
  *
  * 0::sub(5) // returns -5

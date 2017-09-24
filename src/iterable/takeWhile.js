@@ -6,7 +6,8 @@
  * @param condition A condition called on every item to see if it should be taken.
  * @ntime O(n)
  * @dspace O(1)
- * @example Basic Usage
+ * @example
+ * //Basic Usage
  *
  * [1,2,3,4,1,2,3,4]::takeWhile(function () {
  *   return this < 4;

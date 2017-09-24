@@ -5,7 +5,7 @@
  * @this {Iterable<T>}
  * @ntime O(n)
  * @dspace O(1)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3,4]::drop(function () {

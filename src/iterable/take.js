@@ -6,7 +6,7 @@
  * @param condition A condition function to see if the item should be taken.
  * @ntime O(n)
  * @dspace O(1)
- * @example 
+ * @example
  * //Basic Usage
  *
  * [1,2,3,4]
