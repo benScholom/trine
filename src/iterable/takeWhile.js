@@ -1,4 +1,5 @@
 /**
+ * @description
  * Yields the items until an item that matches the condition is found.
  *
  * @this {Iterable<T>}
@@ -7,11 +8,9 @@
  * @dspace O(1)
  * @example Basic Usage
  *
- * ```javascript
  * [1,2,3,4,1,2,3,4]::takeWhile(function () {
  *   return this < 4;
  * }) // yields 1, 2, 3
- * ```
 */
 export function * takeWhile <T> (
     condition : (_this : T) => boolean,

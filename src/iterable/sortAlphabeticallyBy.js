@@ -2,14 +2,15 @@ import { sortAlphabetically } from "./sortAlphabetically";
 import { map } from "./map";
 
 /**
+ * @description
  * Yields the items of the iterator sorted by a given comparator.
  *
  * @this {Iterable<T>}
  * @ntime Engine-specific
  * @dspace Engine-specific
- * @example Basic Usage
+ * @example 
+ * //Basic Usage
  *
- * ```javascript
  * [{
  *   value: "foo",
  * }, {
@@ -17,7 +18,6 @@ import { map } from "./map";
  * }]::sortAlphabeticallyBy(function () {
  *   return this.value;
  * }) // yields { value: "bar" }, { value: "foo" }
- * ```
 */
 export function * sortAlphabeticallyBy <T> (
     transformer : (_this : T) => string,

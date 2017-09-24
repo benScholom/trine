@@ -1,4 +1,5 @@
 /**
+ * @description
  * Returns the tangent of the number.
  *
  * @this {number}

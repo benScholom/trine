@@ -1,4 +1,5 @@
 /**
+ * @description
  * Returns the arctangent of the number.
  *
  * @this {number}

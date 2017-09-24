@@ -1,4 +1,5 @@
 /**
+ * @description
  * Returns the arcsine of the number.
  *
  * @this {number}

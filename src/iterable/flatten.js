@@ -1,14 +1,14 @@
 "use strict";
 
 /**
+ * @description
  * Yields the elements in the iterables of the iterable.
  *
  * @this {Iterable<Iterable<T>>}
- * @example Basic Usage
+ * @example 
+ * //Basic Usage
  *
- * ```javascript
  * [[1],[2]]::flatten() // yields [1,2]
- * ```
 */
 
 export function * flatten <T> (

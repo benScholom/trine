@@ -1,4 +1,5 @@
 /**
+ * @description
  * Returns the cosine of the number.
  *
  * @this {number}

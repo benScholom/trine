@@ -1,17 +1,17 @@
 /**
+ * @description
  * Yields forks of the original iterator, caching the items as needed.
  *
  * @this {Iterable<T>}
- * @example Basic Usage
+ * @example 
+ * //Basic Usage
  *
- * ```javascript
  * const source = [1,2,3]::map(function () { return this * 2});
  * const forks = source::tee();
  * const a = forks.next().value;
  * const b = forks.next().value;
  * [...a] // [1,2,3]
  * [...b] // [1,2,3]
- * ```
 */
 export function * tee <T> (
 
